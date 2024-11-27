@@ -83,13 +83,13 @@ h2 {
 }
 
 p, li, a {
-  text-indent: 3%;
+  /* text-indent: 3%; */
   font-size: 1.2rem;
 }
-h2 + p::first-letter {
+/* h2 + p::first-letter {
   font-size: 2rem;
   font-weight: bold;
-}
+} */
 
 a {
   outline-color: transparent;
@@ -134,7 +134,6 @@ li {
 }
 
 /* Nav bar */
-/* TODO redo list items as links */
 
 nav li {
   font-family: 'bebas_neueregular';
