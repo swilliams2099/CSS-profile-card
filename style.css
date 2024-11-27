@@ -71,12 +71,12 @@ body {
 
 h1, h2 {
   font-family: 'bebas_neueregular';
-  font-size: 3rem;
+  font-size: 6rem;
   /* letter-spacing: 0.1rem; */
 }
 
 h1 {
-  text-align: center;
+  /* text-align: center; */
 }
 h2 {
   font-size: 2rem;
