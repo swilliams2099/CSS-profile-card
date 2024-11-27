@@ -150,6 +150,7 @@ nav li {
 
 nav li:hover {
   background-color:#a66;
+  color: white;
 }
 
 nav a {
